@@ -1,4 +1,4 @@
-package com.example.javaeightprograms.Arrays;
+package com.example.javaeightprograms.ArraysDSA;
 
 public class ArraysLeftRotateByOne {
 

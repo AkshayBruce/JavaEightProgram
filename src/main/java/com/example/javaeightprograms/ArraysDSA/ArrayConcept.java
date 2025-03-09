@@ -1,6 +1,4 @@
-package com.example.javaeightprograms.Arrays;
-
-import java.util.Arrays;
+package com.example.javaeightprograms.ArraysDSA;
 
 public class ArrayConcept {
 

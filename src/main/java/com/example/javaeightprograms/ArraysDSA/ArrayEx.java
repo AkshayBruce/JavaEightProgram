@@ -1,9 +1,13 @@
-package com.example.javaeightprograms.Arrays;
+package com.example.javaeightprograms.ArraysDSA;
 
 public class ArrayEx {
     public static void main(String[] args) {
         int[]  array ={5,4,3,2,1};
 
+        Integer i = 256;
+        byte b = i.byteValue();
+
+        System.out.println(b);
 
         arraytestCode(array);
 

@@ -1,4 +1,6 @@
 package com.example.javaeightprograms.Predicate;
 
-public interface PredicateInterface {
+@FunctionalInterface
+public interface PredicateInterface<T> {
+    boolean test(T t);
 }

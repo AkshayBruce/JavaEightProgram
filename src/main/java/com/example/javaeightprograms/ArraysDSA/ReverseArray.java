@@ -1,4 +1,4 @@
-package com.example.javaeightprograms.Arrays;
+package com.example.javaeightprograms.ArraysDSA;
 
 public class ReverseArray {
     public static void main(String[] args) {

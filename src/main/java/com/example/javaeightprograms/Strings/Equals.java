@@ -1,10 +1,15 @@
 package com.example.javaeightprograms.Strings;
 
 public class Equals {
+
+public void method(){}
+
     public static void main(String[] args) {
 
         String name = "akshay";
         String word = "akshay";
+
+
 
         String string = new String("akshay");
         String string2 = new String("akshay");
@@ -19,4 +24,5 @@ public class Equals {
 
 
     }
+
 }

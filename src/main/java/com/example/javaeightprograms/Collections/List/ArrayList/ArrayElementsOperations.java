@@ -17,7 +17,6 @@ public class ArrayElementsOperations {
         list.add("Ruby");
         list.add("Scala");
 
-
         System.out.println("List of programming languages are:"+ list);
         list.add(7, "Typescript");
         boolean isRemoved = list.remove("Golang");

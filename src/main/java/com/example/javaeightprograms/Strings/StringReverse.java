@@ -21,3 +21,9 @@ public class StringReverse {
 
     }
 }
+
+class StringReverseNByTwo
+{
+    String name = "Akshay";
+
+}

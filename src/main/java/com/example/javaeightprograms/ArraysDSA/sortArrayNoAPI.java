@@ -1,4 +1,4 @@
-package com.example.javaeightprograms.Arrays;
+package com.example.javaeightprograms.ArraysDSA;
 
 import java.util.Arrays;
 import java.util.Scanner;

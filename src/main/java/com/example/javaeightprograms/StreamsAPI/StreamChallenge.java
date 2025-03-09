@@ -15,3 +15,17 @@ public class StreamChallenge {
         System.out.println(count);
     }
 }
+
+
+class StreamChallenges
+{
+    List<String> words = Arrays.asList("Fun","is","Fun" );
+
+    int count = (int)words.stream()
+            .filter(word -> word.length()>2)
+            .map(String::length)
+            .count();
+
+        //SSystem.out.println(count);
+
+}

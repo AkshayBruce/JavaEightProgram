@@ -19,6 +19,25 @@ public class ClassString {
         objB.display();
         */
 
+        //misc
+        int Integer = 24;
+        char String = 'I';
+
+        System.out.print(Integer);
+        System.out.print(String);
+
+
+        Integer i =500;
+        String str = i.toString();
+        str+="abc";
+        System.out.println(str);
+
+        int a =10, b= 20;
+        a+=(a=4);
+        b=b+(b=5);
+
+        System.out.println(a+" "+b);
+
         Motorcycle bike = new Motorcycle();
 
    }
